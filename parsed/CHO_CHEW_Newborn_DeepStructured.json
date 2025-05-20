@@ -1,0 +1,60 @@
+[
+  {
+    "section_id": "SECTION 1.1",
+    "cadre": "CHO",
+    "condition": "The Newborn",
+    "age_group": "Newborn (0\u201328 days)",
+    "symptoms_trigger": [],
+    "history_questions": [],
+    "assessment_steps": [],
+    "immediate_actions": [
+      "dry cloth"
+    ],
+    "referral_required": false,
+    "health_education_points": [
+      "ensure proper cord ",
+      "ensure the room"
+    ]
+  },
+  {
+    "section_id": "SECTION 1.1",
+    "cadre": "CHO",
+    "condition": "The Newborn",
+    "age_group": "Newborn (0\u201328 days)",
+    "symptoms_trigger": [],
+    "history_questions": [],
+    "assessment_steps": [],
+    "immediate_actions": [],
+    "referral_required": false,
+    "health_education_points": []
+  },
+  {
+    "section_id": "SECTION 1.2",
+    "cadre": "CHO",
+    "condition": "Unknown",
+    "age_group": "Newborn (0\u201328 days)",
+    "symptoms_trigger": [],
+    "history_questions": [],
+    "assessment_steps": [],
+    "immediate_actions": [
+      "given"
+    ],
+    "referral_required": false,
+    "health_education_points": []
+  },
+  {
+    "section_id": "SECTION 1.3",
+    "cadre": "CHO",
+    "condition": "Unknown",
+    "age_group": "Newborn (0\u201328 days)",
+    "symptoms_trigger": [
+      "abnormal ",
+      "to look out for"
+    ],
+    "history_questions": [],
+    "assessment_steps": [],
+    "immediate_actions": [],
+    "referral_required": false,
+    "health_education_points": []
+  }
+]
